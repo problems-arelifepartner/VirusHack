@@ -12,6 +12,8 @@ $ pkg install bash
 
 $ git clone https://github.com/problems-arelifepartner/VirusHack
 
+$ cd VirusHack
+
 $ bash Kill-Virus.sh
 
 
