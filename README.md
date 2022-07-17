@@ -2,10 +2,11 @@
 You can hack any accounts using it
 
 
+$
 
+$
 
-
-
+$
 
 # USE IT IN YOUR OWN RISK... EDUCATIONAL PURPOSES ONLY
 # DON'T USE TO TORTURE OTHERS
