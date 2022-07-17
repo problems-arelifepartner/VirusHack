@@ -24,4 +24,4 @@ $ bash Kill-Virus.sh
 # USE IT IN YOUR OWN RISK...
 # DON'T USE TO TORTURE OTHERS
 
-<a href="https://bit.ly/3o6HK9E"> Copyright</a>
+<a href="https://bit.ly/3REpCl2"> Copyright</a>
